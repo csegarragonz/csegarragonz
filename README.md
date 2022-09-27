@@ -1,6 +1,6 @@
 ### Carlos Segarra's Github Home
 
-I am a PhD student at the Imperial College in London working on systems and security.
+I am a PhD student at the Imperial College in London.
 My interests cover systems and security, with a focus on privacy-preserving runtimes and confidential computing.
 
 Here's a selection of some projects I am working on:
