@@ -7,6 +7,6 @@ Here's a selection of some projects I am working on:
 * [Faasm](https://github.com/faasm/faasm) - high-performance serverless runtime with WebAssembly.
 * [TLess](https://github.com/faasm/faasm/tree/tless) - port of the Faasm runtime for confidential serverless computing.
 * [cc-DSB](https://github.com/lsds/cc-DeathStarBench) - port of the DeathStar benchmark for microservices to a confidential computing setting.
-* [CoCo-Serverless](https://github.com/csegarragonz/coco-serverless) - run serverless workloads with Knative on Confidential Containers.
+* [CoCo-Serverless](https://github.com/coco-serverless) - confidential serverless with confidential containers.
 
 For more information about me, you can check my [website](https://carlossegarra.com) or my [LinkedIn](https://linkedin.com/in/carlossegarrag).
